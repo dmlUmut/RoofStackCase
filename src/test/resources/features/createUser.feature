@@ -1,6 +1,8 @@
+@all
 Feature: Create User Scenario
 
 
+  @p1
   Scenario: Success create user control
 
     Given request data create with jane, doe, doejj

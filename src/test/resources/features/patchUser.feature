@@ -1,3 +1,4 @@
+@all
 Feature: Patch User Scenario
 
 

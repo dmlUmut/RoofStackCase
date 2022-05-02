@@ -1,3 +1,4 @@
+@all
 Feature: Delete User Scenario
 
 
